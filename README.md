@@ -1,4 +1,4 @@
-
+![Logo](https://github.com/MoizScriptz/MoizScriptz/blob/main/Logo.jpg)
 
 <h1 align="center">Hi 👋, I'm Abdul Moiz</h1>
 <h3 align="center">A PIAIC Student Exploring the World of AI Agents</h3>
