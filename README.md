@@ -21,7 +21,7 @@
 <a href="https://linkedin.com/in/abdul moiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdul moiz" height="30" width="40" /></a>
 <a href="https://fb.com/abdul moiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdul moiz" height="30" width="40" /></a>
 <a href="https://instagram.com/moizscriptz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="moizscriptz" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/moizscriptz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="moizscriptz" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/www.youtube.com/@moizscriptz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="www.youtube.com/@moizscriptz" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
